@@ -15,8 +15,9 @@ no funciona". Contenido para guardar y compartir (alto alcance).
 - **Slide 2 (mito):** fondo blanco. "MITO ❌" + "Si no duele, no está funcionando."
 - **Slide 3 (realidad):** fondo azul #2B2E91, texto blanco. "REALIDAD ✅" + "Un verdadero
   drenaje linfático es suave, rítmico… y alivia."
-- **Slide 4 (porqué):** fondo blanco. "Su función es ayudar a tu cuerpo a eliminar los
-  líquidos retenidos tras la cirugía. Eso reduce la presión y la inflamación casi de inmediato."
+- **Slide 4 (porqué):** fondo blanco. Título: "Entonces, ¿qué hace realmente?" +
+  cuerpo: "Ayuda a tu cuerpo a movilizar los líquidos retenidos tras la cirugía,
+  aliviando la presión y la hinchazón casi de inmediato."
 - **Slide 5 (cierre + CTA):** foto de la Lic. "Tu recuperación merece manos con experiencia."
   + "Escríbeme CITA por DM 💬" + logo + 📍 Clínica Empire.
 
