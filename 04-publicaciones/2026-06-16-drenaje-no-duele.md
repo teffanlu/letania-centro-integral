@@ -28,20 +28,21 @@ Masajes postoperatorios en Maracaibo: el dolor NO es señal de que funcione 🤍
 Una de las frases que más escucho en consulta es:
 "Licenciada, póngame duro que así sirve más".
 
-Y aquí va la verdad después de 30 años: eso es un mito.
+Y después de 30 años, te digo la verdad: eso es un mito.
 
-Un verdadero drenaje linfático manual es suave, rítmico y delicado. 
-No te lastima: te alivia. Porque su función es ayudar a tu cuerpo a 
-eliminar los líquidos retenidos tras la cirugía, y eso baja la presión 
-y la inflamación casi de inmediato.
+Un verdadero drenaje linfático manual es suave, rítmico y delicado.
+No te lastima: te alivia. Su función es movilizar los líquidos que tu 
+cuerpo retiene tras la cirugía, y así baja la presión y la hinchazón 
+casi de inmediato.
 
-Si un masaje "post-operatorio" te deja morados o llorando de dolor, 
-no es técnica… es falta de ella.
+Si un masaje "post-operatorio" te deja morada o llorando del dolor, 
+eso no es técnica… es falta de ella.
 
-Tu recuperación merece manos con experiencia.
-Escríbeme CITA por DM y te explico tu proceso 💬
+Tu recuperación merece manos con experiencia y criterio clínico.
 
-📍 Clínica Empire, Av. Fuerzas Armadas, Maracaibo
+📲 Escríbeme la palabra CITA por DM y te explico tu proceso paso a paso.
+
+📍 Clínica Empire, Av. Fuerzas Armadas, Maracaibo · También en Villa del Rosario
 
 #PostOperatorioMaracaibo #DrenajeLinfaticoMaracaibo #MasajesPostQuirurgicos #EsteticaMaracaibo #CosmiatraMaracaibo
 ```
