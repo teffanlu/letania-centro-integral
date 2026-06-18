@@ -14,12 +14,12 @@ Estados: ✅ Publicado · 🟡 Listo para publicar · ⚪ Por preparar
 
 | Fecha | Día | Hora | Pilar | Formato | Tema | Estado | Ficha |
 |-------|-----|------|-------|---------|------|--------|-------|
-| 13/06 | Sáb | 11:00 | Marca personal | Carrusel | Belleza honesta (colágeno de calidad sin inflar costo) | 🟡 | `04-publicaciones/2026-06-13-belleza-honesta.md` |
-| 16/06 | Mar | 13:00 | Educación | Carrusel | FAQ 1: El drenaje linfático NO duele | 🟡 | `04-publicaciones/2026-06-16-drenaje-no-duele.md` |
-| 18/06 | Jue | 19:30 | Resultados/Autoridad | Reel | Post-operatorio con frío (martillo de frío / crioterapia, paciente de nariz) | 🟡 | `04-publicaciones/2026-06-18-postoperatorio-frio.md` |
-| 20/06 | Sáb | 11:00 | Marca personal/Autoridad | Reel a cámara | Técnica combinada: Radiofrecuencia + Dermapen | ⚪ | — |
-| 23/06 | Mar | 13:00 | Educación | Carrusel | FAQ 3: La fibrosis, qué es y cómo se previene | ⚪ | — |
-| 25/06 | Jue | 19:30 | Resultados | Reel | Testimonio narrado (storytelling) | ⚪ | — |
-| 27/06 | Sáb | 11:00 | Marca personal | Post/Carrusel | Peeling enzimático amigable con el sol del Zulia | ⚪ | — |
+| 13/06 | Sáb | 11:00 | Marca personal | Carrusel | Belleza honesta (colágeno de calidad sin inflar costo) | ✅ | `04-publicaciones/2026-06-13-belleza-honesta.md` |
+| 16/06 | Mar | 13:00 | Educación | Carrusel | FAQ 1: El drenaje linfático NO duele | ✅ | `04-publicaciones/2026-06-16-drenaje-no-duele.md` |
+| 18/06 | Jue | 19:30 | Resultados/Autoridad | Reel | Post-operatorio con frío (martillo de frío / crioterapia, paciente de nariz) | ✅ | `04-publicaciones/2026-06-18-postoperatorio-frio.md` |
+| 20/06 | Sáb | 11:00 | Marca personal/Autoridad | Reel a cámara | Técnica combinada: Radiofrecuencia + Dermapen | 🟡 | `04-publicaciones/2026-06-20-radiofrecuencia-dermapen.md` |
+| 23/06 | Mar | 13:00 | Educación | Carrusel | FAQ 3: La fibrosis, qué es y cómo se previene | 🟡 | `04-publicaciones/2026-06-23-fibrosis.md` |
+| 25/06 | Jue | 19:30 | Resultados | Reel | Testimonio narrado (storytelling) | 🟡 | `04-publicaciones/2026-06-25-testimonio.md` |
+| 27/06 | Sáb | 11:00 | Marca personal | Post/Carrusel | Peeling enzimático amigable con el sol del Zulia | 🟡 | `04-publicaciones/2026-06-27-peeling-enzimatico.md` |
 
 > Al publicar: cambia el estado a ✅ y crea/llena la ficha en `04-publicaciones/`.
