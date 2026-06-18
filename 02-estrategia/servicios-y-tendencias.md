@@ -11,7 +11,7 @@
 | Radiofrecuencia fraccionada con microagujas (tipo Morpheus8) | Lo replica con **técnica combinada: Radiofrecuencia + Dermapen** (ver abajo). |
 | Terapias regenerativas | Trabaja **péptidos y PDRN de salmón**. |
 | Peelings enzimáticos / amigables con el sol | SÍ (ideales para el clima del Zulia). |
-| Limpiezas tipo Hydrafacial | (Sin confirmar — no publicar hasta validar.) |
+| Hidrofacial (hidrodermoabrasión multifuncional) | SÍ (CONFIRMADO). Incluye manípulo de **martillo de frío** (crioterapia). |
 
 ## Técnica estrella (diferenciador clave)
 La Lic. logra el efecto de la radiofrecuencia fraccionada con un **protocolo combinado**:
@@ -20,6 +20,18 @@ La Lic. logra el efecto de la radiofrecuencia fraccionada con un **protocolo com
 
 Resultado: misma eficacia y beneficios, de forma profesional. Ideal contra la flacidez
 y el daño solar de Maracaibo.
+
+## Martillo de frío / Crioterapia (precisión técnica)
+Es un manípulo del equipo de **Hidrofacial** (NO es el Hidrofacial en sí). Aplica
+temperaturas bajas (~5-10°C) que:
+- Contraen los vasos sanguíneos.
+- Sellan los poros y calman la piel tras otros tratamientos.
+- Reducen el edema (inflamación) y dan efecto analgésico post-quirúrgico.
+Uso clave: recuperación post-operatoria (ej. rinoplastia) para desinflamar el rostro.
+
+> Forma correcta de escribirlo en contenido: "martillo de frío (crioterapia)".
+> Evitar decir que "el Hidrofacial enfría"; lo correcto es que el martillo de frío
+> es una de sus funciones.
 
 ## Filosofía de "belleza honesta"
 Usa colágeno de alta calidad para resultados óptimos. Prefiere alternativas igual de
