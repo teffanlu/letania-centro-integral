@@ -9,11 +9,18 @@
 Resolver el miedo al peeling agresivo y posicionar una opción ideal para el clima
 cálido del Zulia. Atraer interés facial.
 
-## Visual (4:5)
-- Tono fresco y luminoso.
-- Slide 1 (hook): "¿Iluminar tu piel sin miedo al sol del Zulia? 👇"
-- Slide 2: qué es / beneficios (suave, sin descamación agresiva).
-- Slide 3 (opcional): foto Lic. + CTA.
+## Visual (carrusel 5 slides · 4:5)
+- **Slide 1 (portada):** fondo turquesa #0FA98F. Título "¿Iluminar tu piel sin miedo al
+  sol del Zulia?" (Playfair) + "Te cuento el secreto 👉" (Montserrat). Logo.
+- **Slide 2 (el miedo):** fondo blanco. "El miedo de siempre" + "Muchas mujeres creen que
+  un peeling les 'pelará' la piel y no podrán exponerse al sol… y aquí eso preocupa, con razón."
+- **Slide 3 (la diferencia):** fondo azul #2B2E91, texto blanco. "Pero hay una opción distinta"
+  + "El peeling enzimático es suave: renueva e ilumina tu piel sin descamación agresiva."
+- **Slide 4 (beneficios):** fondo blanco. "¿Por qué es ideal para Maracaibo?" + lista:
+  ✨ Ilumina y unifica el tono · 💧 Hidrata y renueva · ☀️ Amigable con el clima cálido ·
+  ⏱️ Sin recuperaciones complicadas.
+- **Slide 5 (cierre + CTA):** foto de la Lic. (o piel luminosa). "Piel fresca, luminosa y
+  saludable." + "Escríbeme CITA por DM 💬" + logo + 📍 Maracaibo.
 
 ## Caption
 ```
