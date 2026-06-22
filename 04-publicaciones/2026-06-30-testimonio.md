@@ -1,6 +1,6 @@
 # Reel — Testimonio narrado (storytelling)
 
-- **Fecha:** Jueves 25/06/2026 · 7:30 pm
+- **Fecha:** Martes 30/06/2026 · 1:00 pm
 - **Pilar:** Resultados / Conexión
 - **Formato:** Reel (storytelling)
 - **Estado:** 🟡 Listo para producir/publicar

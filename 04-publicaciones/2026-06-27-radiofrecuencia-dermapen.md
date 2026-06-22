@@ -1,6 +1,7 @@
 # Reel — Técnica combinada: Radiofrecuencia + Dermapen
 
-- **Fecha:** Sábado 20/06/2026 · 11:00 am
+- **Fecha:** Sábado 27/06/2026 · 11:00 am
+- **Nota:** reprogramado (originalmente 20/06, no se publicó).
 - **Pilar:** Marca personal / Autoridad (diferenciador)
 - **Formato:** Reel a cámara (30-45 seg)
 - **Estado:** 🟡 Listo para producir/publicar

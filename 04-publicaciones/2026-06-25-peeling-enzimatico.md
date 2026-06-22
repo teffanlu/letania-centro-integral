@@ -1,6 +1,6 @@
 # Carrusel/Post — Peeling enzimático amigable con el sol
 
-- **Fecha:** Sábado 27/06/2026 · 11:00 am
+- **Fecha:** Jueves 25/06/2026 · 7:30 pm
 - **Pilar:** Educación / Marca personal
 - **Formato:** Carrusel (2-3 slides) o post
 - **Estado:** 🟡 Listo para producir/publicar
