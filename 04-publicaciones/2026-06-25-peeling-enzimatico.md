@@ -9,16 +9,23 @@
 Resolver el miedo al peeling agresivo y posicionar una opción ideal para el clima
 cálido del Zulia. Atraer interés facial.
 
-## Visual (carrusel 5 slides · 4:5)
-- **Slide 1 (portada):** fondo turquesa #0FA98F. Título "¿Iluminar tu piel sin miedo al
-  sol del Zulia?" (Playfair) + "Te cuento el secreto 👉" (Montserrat). Logo.
-- **Slide 2 (el miedo):** fondo blanco. "El miedo de siempre" + "Muchas mujeres creen que
-  un peeling les 'pelará' la piel y no podrán exponerse al sol… y aquí eso preocupa, con razón."
-- **Slide 3 (la diferencia):** fondo azul #2B2E91, texto blanco. "Pero hay una opción distinta"
-  + "El peeling enzimático es suave: renueva e ilumina tu piel sin descamación agresiva."
-- **Slide 4 (beneficios):** fondo blanco. "¿Por qué es ideal para Maracaibo?" + lista:
-  ✨ Ilumina y unifica el tono · 💧 Hidrata y renueva · ☀️ Amigable con el clima cálido ·
-  ⏱️ Sin recuperaciones complicadas.
+## Visual (carrusel 5 slides · 4:5) — ESTILO FOTOGRÁFICO/LUMINOSO
+> Diferenciación: este post usa estilo fotográfico y luminoso para NO verse idéntico al
+> carrusel de fibrosis (que es de color sólido). Misma marca (fuentes + paleta + logo),
+> distinto layout. Color de marca como ACENTO, no como fondo completo.
+
+- **Slide 1 (portada):** foto luminosa (piel radiante / facial / textura de producto) con
+  velo translúcido encima. Título "¿Iluminar tu piel sin miedo al sol del Zulia?" (Playfair,
+  blanco) + "Te cuento el secreto 👉" (Montserrat). Logo.
+- **Slide 2 (el miedo):** fondo blanco/crema, acento turquesa. "El miedo de siempre" +
+  "Muchas mujeres creen que un peeling les 'pelará' la piel y no podrán exponerse al sol…
+  y aquí eso preocupa, con razón."
+- **Slide 3 (la diferencia):** fondo blanco/crema, acento azul (no fondo completo).
+  "Pero hay una opción distinta" + "El peeling enzimático es suave: renueva e ilumina tu
+  piel sin descamación agresiva."
+- **Slide 4 (beneficios):** fondo blanco. "¿Por qué es ideal para Maracaibo?" + lista con
+  íconos turquesa: ✨ Ilumina y unifica el tono · 💧 Hidrata y renueva · ☀️ Amigable con el
+  clima cálido · ⏱️ Sin recuperaciones complicadas.
 - **Slide 5 (cierre + CTA):** foto de la Lic. (o piel luminosa). "Piel fresca, luminosa y
   saludable." + "Escríbeme CITA por DM 💬" + logo + 📍 Maracaibo.
 
